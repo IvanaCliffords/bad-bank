@@ -1,0 +1,16 @@
+
+.card-1 {
+  max-width: 500px;
+  width: 90%;
+  height: 300px;
+  margin: 100px auto;
+  padding: 100px;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+.navbar {
+  padding: 10px 20px;
+}
+.nav-item {
+  float: right;
+}
